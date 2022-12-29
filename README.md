@@ -10,4 +10,8 @@ Stratascratch data project which asks the following questions:
    * morning (6:00AM - 12:00PM),
    * afternoon (12:00PM - 6:00PM),
    * evening (6:00PM - 12:00AM). 
+
 What is the percentage of sales in each daypart over all 50 weeks?
+
+Sales are visualized in Tableau here: 
+https://public.tableau.com/app/profile/daniel.sutton/viz/23andMeSalesDataAnalysis/23andMeSales
